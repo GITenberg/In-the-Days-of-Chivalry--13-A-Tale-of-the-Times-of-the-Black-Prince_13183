@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '4888'
     url: http://www.gutenberg.org/2009/agents/4888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13183#In-the-Days-of-Chivalry--13-A-Tale-of-the-Times-of-the-Black-Prince
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
