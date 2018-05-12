@@ -1,0 +1,40 @@
+_repo: In-the-Days-of-Chivalry--13-A-Tale-of-the-Times-of-the-Black-Prince_13183
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Ward, E.
+    - Dare, Evelyn
+    - Everett-Green, E. (Evelyn)
+    - Adair, Cecil
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Edward, Prince of Wales, 1330-1376 -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Plague -- Juvenile fiction'
+- !lcsh 'Chivalry -- Juvenile fiction'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+title: 'In the Days of Chivalry: A Tale of the Times of the Black Prince'
+url: http://www.gutenberg.org/ebooks/13183
